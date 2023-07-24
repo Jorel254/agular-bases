@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+//Clase principal de la aplicación
 export class AppComponent {
-  title = 'Bases';
+  title = 'HOLA MUNDO';
 }
